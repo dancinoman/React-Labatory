@@ -17,8 +17,11 @@
 		"babel-preset-react": "^6.3.13",
 		"babel-preset-stage-0": "^6.3.13",
 		"config.js": "^0.1.0",
+		"history": "^1.17.0",
 		"react": "^0.14.6",
-		"react-dom": "^0.14.6",
+		"react-dom": "^0.14.9",
+		"react-router": "^4.2.0",
+		"react-router-dom": "^4.2.2",
 		"webpack": "^3.0.0",
 		"webpack-dev-server": "^2.11.1"
 	},
